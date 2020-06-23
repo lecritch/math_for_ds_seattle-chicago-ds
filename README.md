@@ -1,4 +1,4 @@
-# math_for_ds_seattle-ds
+# math_for_ds_seattle-chicago-ds
 
 This repository contains information about lessons from linear algebra and calculus that are useful for the practicing data scientist. It was designed for pedagogical purposes.
 
